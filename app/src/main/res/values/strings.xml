@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Submission Intermediate</string>
+    <string name="login">Login</string>
+    <string name="daftar">Registration</string>
+    <string name="belum_punya_akun">Dont have an account?</string>
+    <string name="sudah_punya_akun">Already have an account?</string>
+    <string name="nama">Enter your name</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just code it!</string>
+    <string name="title_welcome_page">Welcome to my Intermediate Application</string>
+    <string name="image">Image</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="fab">Floating Button</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location">Location</string>
+    <string name="retry">Retry</string>
+</resources>

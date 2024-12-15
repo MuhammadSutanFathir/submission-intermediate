@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Submission Intermediate</string>
+    <string name="login">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="nama">Masukkan nama</string>
+    <string name="email">Masukkan email</string>
+    <string name="password">Masukkan password</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi Intermediate!</string>
+    <string name="image">Foto</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="description">Deskripsi</string>
+    <string name="fab">Tombol Melayag</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="maps">Peta</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terain</string>
+    <string name="hybrid_type">Hibrida</string>
+    <string name="location">Lokasi</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
